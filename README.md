@@ -8,7 +8,7 @@ Today is hard, tomorrow will be worse but the day after tomorrow will be sunshin
 
 * 🌍  I'm based in Hà Nội
 * ✉️  You can contact me at [trananhtu6403@gmail.com](mailto:trananhtu6403@gmail.com)
-* 🧠  I'm learning Java,Node Js....
+* 🧠  I'm learning Java,JavaScript....
 
 ### Skills
 
