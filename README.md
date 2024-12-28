@@ -23,4 +23,6 @@ Today is hard, tomorrow will be worse but the day after tomorrow will be sunshin
 ### Badges
 
 <a href="https://github.com/trananhtu1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trananhtu1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![snake gif](https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg)
+
 
