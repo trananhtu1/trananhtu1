@@ -1,8 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Trần Anh Tú
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i'm Richard Tran
 ===================================================================================================================================
 
-Student
--------
+<p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x1MnRtNmw4Mmxrd3J5bTZjbzJycnUybDFiNjR1N2I4aTB6b28ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif" alt="Funny GIF">
+</p>
+
 
 ![snake gif](https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg)
 
