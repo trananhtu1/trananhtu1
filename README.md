@@ -1,4 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i'm Richard Tran
+<br/>
+Final-year Software Engineering student (5-year Engineer’s degree) at Electric Power University | GPA: 3.1 | Expected graduation: April 2026
 ===================================================================================================================================
 
 <p>
