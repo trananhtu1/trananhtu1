@@ -3,9 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Final-year Software Engineering student (5-year Engineer’s degree) at Electric Power University | <br/> GPA: 3.1 |  <br/> Expected graduation: April 2026
 ===================================================================================================================================
 
-<p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x1MnRtNmw4Mmxrd3J5bTZjbzJycnUybDFiNjR1N2I4aTB6b28ybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif" alt="Funny GIF">
-</p>
+
 
 
 ![snake gif](https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg)
