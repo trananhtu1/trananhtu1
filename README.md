@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i'm Tran Anh Tu (Richard)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)i'm Tran Anh Tu (Richard) <br/>
 Final-year Software Engineering student (4,5-year Engineer’s degree) at Electric Power University  <br/> GPA: 3.1   <br/> Expected graduation: April 2026
 ===================================================================================================================================
   
