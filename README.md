@@ -1,78 +1,76 @@
-<h1 align="center">Hi 👋, I'm Tran Anh Tu (Richard)</h1>
-<h3 align="center">Frontend Developer | React Enthusiast</h3>
+<h1 align="center">Tran Anh Tu (Richard)</h1>
+<h3 align="center">Frontend Developer | React Ecosystem</h3>
+
+<p align="center">
+🎓 Software Engineering – Electric Power University <br/>
+GPA: 3.2 | Graduation: Apr 2026 <br/>
+📧 trananhtu6403@gmail.com • 
+<a href="https://www.linkedin.com/in/t%C3%BA-tr%E1%BA%A7n-anh-06632230b/">LinkedIn</a> • 
+TOEIC 620
+</p>
 
 ---
 
-🎓 Final-year Software Engineering Student (4.5-year Engineer’s Degree)  
-🏫 Electric Power University  
-📊 GPA: 3.2  
-📅 Expected Graduation: April 2026  
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 About Me
+### 🚀 About
+- 1+ year **Frontend Development**
+- Focus on **React ecosystem**
+- Experience with **Redux / Redux-Saga**
+- Build **scalable web applications**
+- Learning **AI-assisted development**
 
-- 💻 1+ year experience in Frontend Development  
-- ⚛️ Strong focus on React ecosystem  
-- 🔄 Experienced working with Redux & Redux-Saga in real projects  
-- 🌐 Interested in building scalable and maintainable web applications  
-- 🤖 Actively learning AI-assisted development to improve productivity  
-- 🎯 Goal 2026: Become a solid Middle Frontend Developer and expand to Backend
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🛠 Tech Stack
-
-### 💻 Frontend
+### 🛠 Tech Stack
+**Frontend**
 - React.js
 - Redux / Redux Toolkit
 - Redux-Saga
 - JavaScript (ES6+)
 - HTML5 / CSS3
 - Ant Design
-- Responsive Design
-- RESTful API Integration
 
-### 🧠 Tools & Workflow
+**Tools**
 - Git / GitHub
 - VS Code
 - Postman
-- Figma (basic collaboration)
+- Firebase
 - Agile / Scrum
 
-### 🌱 Currently Learning
-- Advanced Redux architecture
-- Performance optimization in React
-- Node.js & Backend fundamentals
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## 📈 Experience Highlights
+### 📈 Experience
+- React + Redux production-style apps  
+- Firebase authentication  
+- API integration  
+- Scalable project structure  
 
-- Built real-world projects using React + Redux-Saga
-- Worked with authentication flow (Firebase)
-- Integrated third-party APIs (e.g. payment gateway, movie APIs)
-- Focused on clean code and scalable folder structure
+</td>
 
----
+<td width="50%" valign="top">
 
-## 📊 English
+### 🌱 Improving
+- Advanced Redux patterns  
+- React performance optimization  
+- Node.js backend fundamentals  
 
-- TOEIC: 620  
-- Comfortable reading technical documentation  
+</td>
+</tr>
+</table>
 
----
-
-## 📫 Connect with Me
-
-- Email: trananhtu6403@gmail.com
-- LinkedIn: https://www.linkedin.com/in/t%C3%BA-tr%E1%BA%A7n-anh-06632230b/
-
----
+</div>
 
 <p align="center">
-  <img src="https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg" />
+<img src="https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg"/>
 </p>
-
-
-
