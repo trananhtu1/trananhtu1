@@ -1,75 +1,83 @@
-<h1 align="center">Tran Anh Tu (Richard)</h1>
-<h3 align="center">Frontend Developer | React Ecosystem</h3>
+# 👋 Hi, I'm Tran Anh Tu
 
-<p align="center">
-🎓 Software Engineering – Electric Power University <br/>
-GPA: 3.2 | Graduation: Apr 2026 <br/>
-📧 trananhtu6403@gmail.com • 
-<a href="https://www.linkedin.com/in/t%C3%BA-tr%E1%BA%A7n-anh-06632230b/">LinkedIn</a> • 
-TOEIC 620
-</p>
+🎯 Frontend Developer with 1+ year of experience building and maintaining real-world web applications using ReactJS, Redux, and modern JavaScript.
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 💻 Specialized in **Frontend Development (ReactJS, Redux)**
+- ⚡ Experienced in working with **APIs, state management, and complex UI logic**
+- 🎯 Focused on writing **clean, maintainable, and scalable code**
+- 🤝 Comfortable working in **Agile/Scrum environments (Jira, Git Flow)**
+- 🚀 Continuously improving technical and problem-solving skills
 
-### 🚀 About
-- 1+ year **Frontend Development**
-- Focus on **React ecosystem**
-- Experience with **Redux / Redux-Saga**
-- Build **scalable web applications**
-- Learning **AI-assisted development**
+---
 
-</td>
+## 🛠️ Tech Stack
 
-<td width="50%" valign="top">
-
-### 🛠 Tech Stack
-**Frontend**
-- React.js
+### Frontend
+- ReactJS (Hooks, Component Design)
 - Redux / Redux Toolkit
-- Redux-Saga
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Ant Design
+- JavaScript (ES6+), HTML5, CSS3
+- TailwindCSS, SCSS
 
-**Tools**
-- Git / GitHub
-- VS Code
-- Postman
-- Firebase
-- Agile / Scrum
+### Data & Integration
+- RESTful API Integration
+- State Management
+- Debugging & Performance Optimization
 
-</td>
-</tr>
+### Tools & Workflow
+- Git, Git Flow
+- Jira (Agile/Scrum)
+- Postman, Firebase
+- AI-assisted development (Claude, GitHub Copilot)
 
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📈 Experience
-- React + Redux production-style apps  
-- Firebase authentication  
-- API integration  
-- Scalable project structure  
+## 💼 Work Experience
 
-</td>
+### Frontend Developer (ReactJS) – VIETED  
+📅 Dec 2024 – Present  
+📌 Project: Learning Management System (LMS)
 
-<td width="50%" valign="top">
+- Developed and enhanced LMS features involving complex data handling and user interaction  
+- Implemented AI-assisted question editing with customizable explanations  
+- Redesigned exercise result logic to support both first attempt and latest attempt evaluation  
+- Built advanced input features (bulk paste with formatting preservation)  
+- Improved authentication UI/UX and overall user experience  
+- Developed multiple modules: BI dashboard, file upload system, HRMS reports, video playback with chat  
+- Implemented video-based learning features (mid-video quiz, anti-skip logic)  
+- Optimized performance with batching (up to 1000 requests) and real-time UI feedback  
+- Refactored legacy code and improved maintainability  
+- Debugged complex issues related to rendering, routing, and state updates  
+- Collaborated in Agile/Scrum environment using Jira and Git Flow  
 
-### 🌱 Improving
-- Advanced Redux patterns  
-- React performance optimization  
-- Node.js backend fundamentals  
+---
 
-</td>
-</tr>
-</table>
+## 🎓 Education
 
-</div>
+**Electric Power University (EPU)**  
+Software Technology  
+📅 2021 – 2026  
+🎯 GPA: 3.14  
+
+---
+
+## 📜 Certifications
+
+- TOEIC 615 (Dec 2024)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: trananhtu6403@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/trananhtu1    
+
+---
+
+⭐ *Always open to learning, collaboration, and new opportunities!*
 
 <p align="center">
 <img src="https://github.com/ltthuong/ltthuong/blob/main/snake/github-snake.svg"/>
