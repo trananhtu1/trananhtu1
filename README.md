@@ -3,6 +3,12 @@
 🎯 Frontend Developer with 1+ year of experience building and maintaining real-world web applications using ReactJS, Redux, and modern JavaScript.
 
 ---
+## 🎓 Education
+
+**Electric Power University (EPU)**  
+Software Technology  
+📅 2021 – 2026  
+🎯 GPA: 3.14  ( never failed a subject 😝 )
 
 ## 🚀 About Me
 
@@ -16,23 +22,16 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- ReactJS (Hooks, Component Design)
-- Redux / Redux Toolkit
-- JavaScript (ES6+), HTML5, CSS3
-- TailwindCSS, SCSS
+### Frontend                                                    ### Tools & Workflow
+- ReactJS (Hooks, Component Design)                             - Git, Git Flow
+- Redux / Redux Toolkit                                         - Jira (Agile/Scrum)
+- JavaScript (ES6+), HTML5, CSS3                                - Postman, Firebase
+- TailwindCSS, SCSS                                             - AI-assisted development (Claude, GitHub Copilot)
 
 ### Data & Integration
 - RESTful API Integration
 - State Management
 - Debugging & Performance Optimization
-
-### Tools & Workflow
-- Git, Git Flow
-- Jira (Agile/Scrum)
-- Postman, Firebase
-- AI-assisted development (Claude, GitHub Copilot)
-
 ---
 
 ## 💼 Work Experience
@@ -55,12 +54,6 @@
 
 ---
 
-## 🎓 Education
-
-**Electric Power University (EPU)**  
-Software Technology  
-📅 2021 – 2026  
-🎯 GPA: 3.14  
 
 ---
 
