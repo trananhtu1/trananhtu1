@@ -8,21 +8,12 @@ ReactJS · Redux · 1+ year building real-world web applications
 |---|---|
 | **Frontend** | ReactJS · Redux Toolkit · JavaScript ES6+ · HTML5 · CSS3 · TailwindCSS · SCSS |
 | **Tools** | Git Flow · Jira · Postman · Firebase · Claude · GitHub Copilot |
-| **Integration** | RESTful API · State Management · Performance Optimization |
 
 ---
 
 ### 💼 Frontend Developer @ VIETED <sub>(Dec 2024 – Present)</sub>
 
 > **Learning Management System (LMS)**
-
-| Area | Details |
-|---|---|
-| **Features** | AI-assisted question editing · mid-video quiz · anti-skip logic · bulk paste with formatting |
-| **Performance** | Batch optimization (up to 1000 requests) · real-time UI feedback |
-| **Modules** | BI dashboard · file upload · HRMS reports · video playback with chat |
-| **Process** | Agile/Scrum · Jira · Git Flow · legacy code refactoring |
-
 ---
 
 | | |
