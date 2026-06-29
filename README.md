@@ -1,13 +1,8 @@
 # Tran Anh Tu · Frontend Developer
 
-ReactJS · Redux · 1+ year building real-world web applications
+ReactJS ·  1+ year 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trananhtu1) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trananhtu6403@gmail.com)
-
-| | |
-|---|---|
-| **Frontend** | ReactJS · Redux Toolkit · JavaScript ES6+ · HTML5 · CSS3 · TailwindCSS · SCSS |
-| **Tools** | Git Flow · Jira · Postman · Firebase · Claude · GitHub Copilot |
 
 ---
 
